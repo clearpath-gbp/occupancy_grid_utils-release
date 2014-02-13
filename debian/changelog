@@ -1,0 +1,8 @@
+ros-hydro-occupancy-grid-utils (0.0.1-2precise) precise; urgency=high
+
+  * 0.0.1 Initial Hydro internal release forked from https://code.ros.org/svn/ros-pkg/stacks/graph_mapping/trunk/occupancy_grid_utils r40053.
+  * Contributors: Andreas Wachaja, Bhaskara Marthi, Mac Mason, Yan Ma
+
+ -- yanma <yanma@clearpathrobotics.com>  Thu, 13 Feb 2014 05:00:00 -0000
+
+
