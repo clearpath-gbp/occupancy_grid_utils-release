@@ -1,8 +1,0 @@
-ros-hydro-occupancy-grid-utils (0.0.1-0quantal) quantal; urgency=high
-
-  * Initial Hydro Release, forked from https://code.ros.org/svn/ros-pkg/stacks/graph_mapping/trunk/occupancy_grid_utils r40053.
-  * Contributors: Andreas Wachaja, Bhaskara Marthi, Mac Mason, Yan Ma
-
- -- yanma <yanma@clearpathrobotics.com>  Tue, 11 Feb 2014 05:00:00 -0000
-
-
