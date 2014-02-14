@@ -1,0 +1,12 @@
+Source: ros-hydro-occupancy-grid-utils
+Section: misc
+Priority: extra
+Maintainer: yanma <yanma@clearpathrobotics.com>
+Build-Depends: debhelper (>= 7.0.50~), libeigen3-dev, ros-hydro-catkin, ros-hydro-geometry-msgs, ros-hydro-laser-geometry, ros-hydro-map-server, ros-hydro-message-generation, ros-hydro-nav-msgs, ros-hydro-roscpp, ros-hydro-rospy, ros-hydro-sensor-msgs, ros-hydro-tf, ros-hydro-tf2-bullet
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-hydro-occupancy-grid-utils
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libeigen3-dev, ros-hydro-geometry-msgs, ros-hydro-laser-geometry, ros-hydro-map-server, ros-hydro-message-runtime, ros-hydro-nav-msgs, ros-hydro-roscpp, ros-hydro-rospy, ros-hydro-sensor-msgs, ros-hydro-tf, ros-hydro-tf2-bullet
+Description: The catkinized Occupancy Grid Utils package
