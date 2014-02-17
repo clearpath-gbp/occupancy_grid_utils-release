@@ -1,3 +1,22 @@
+## occupancy_grid_utils - 0.0.3-0
+
+User `y22ma@y22ma-GT60-0NC-GT60-0NC` released the packages in the `occupancy_grid_utils` repository by running `/usr/bin/bloom-release --rosdistro hydro --track hydro occupancy_grid_utils` on `Mon, 17 Feb 2014 03:18:13 -0000`
+
+The `occupancy_grid_utils` package was released.
+
+Version of package(s) in repository `occupancy_grid_utils`:
+- rosdistro version: `null`
+- old version: `0.0.2-1`
+- new version: `0.0.3-0`
+
+Versions of tools used:
+- bloom version: `0.4.9`
+- catkin_pkg version: `0.1.26`
+- rosdep version: `0.10.25`
+- rosdistro version: `0.3.4`
+- vcstools version: `0.1.30`
+
+
 ## cpr_slam - 0.0.2-1
 
 User `y22ma@y22ma-GT60-0NC-GT60-0NC` released the packages in the `cpr_slam` repository by running `/usr/bin/bloom-release --rosdistro hydro --track hydro cpr_slam` on `Fri, 14 Feb 2014 14:38:11 -0000`
