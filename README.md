@@ -1,3 +1,24 @@
+## occupancy_grid_utils (hydro) - 0.0.5-0
+
+The packages in the `occupancy_grid_utils` repository were released into the `hydro` distro by running `/usr/bin/bloom-release --track hydro --ros-distro hydro occupancy_grid_utils` on `Wed, 25 Feb 2015 18:58:51 -0000`
+
+The `occupancy_grid_utils` package was released.
+
+Version of package(s) in repository `occupancy_grid_utils`:
+- upstream repository: https://github.com/clearpathrobotics/occupancy_grid_utils
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `0.0.4-0`
+- new version: `0.0.5-0`
+
+Versions of tools used:
+- bloom version: `0.5.19`
+- catkin_pkg version: `0.2.7`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.1`
+- vcstools version: `0.1.36`
+
+
 ## occupancy_grid_utils - 0.0.4-0
 
 User `y22ma@y22ma-GT60-0NC-GT60-0NC` released the packages in the `occupancy_grid_utils` repository by running `/usr/bin/bloom-release --rosdistro hydro --track hydro occupancy_grid_utils` on `Wed, 19 Feb 2014 22:40:16 -0000`
