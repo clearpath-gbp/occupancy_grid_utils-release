@@ -3,6 +3,11 @@ Changelog for package occupancy_grid_utils
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
+0.0.6 (2015-08-30)
+------------------
+* Fix non-installed *.hpp headers
+* Contributors: Enrique Fernandez
+
 0.0.5 (2015-02-25)
 ------------------
 * Changed OpenCV dependency to 'cv_bridge' to work on hydro and indigo
