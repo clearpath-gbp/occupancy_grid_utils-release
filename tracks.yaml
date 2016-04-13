@@ -42,4 +42,4 @@ tracks:
     ros_distro: indigo
     vcs_type: git
     vcs_uri: https://github.com/clearpathrobotics/occupancy_grid_utils
-    version: 0.0.7
+    version: 0.0.8
