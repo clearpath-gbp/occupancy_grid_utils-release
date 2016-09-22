@@ -1,0 +1,12 @@
+Source: ros-indigo-occupancy-grid-utils
+Section: misc
+Priority: extra
+Maintainer: jservos <jservos@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), libeigen3-dev, ros-indigo-catkin, ros-indigo-cv-bridge, ros-indigo-geometry-msgs, ros-indigo-laser-geometry, ros-indigo-message-generation, ros-indigo-nav-msgs, ros-indigo-roscpp, ros-indigo-rospy, ros-indigo-sensor-msgs, ros-indigo-tf, ros-indigo-tf2-bullet
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-occupancy-grid-utils
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libeigen3-dev, ros-indigo-cv-bridge, ros-indigo-geometry-msgs, ros-indigo-laser-geometry, ros-indigo-message-runtime, ros-indigo-nav-msgs, ros-indigo-roscpp, ros-indigo-rospy, ros-indigo-sensor-msgs, ros-indigo-tf, ros-indigo-tf2-bullet
+Description: The catkinized Occupancy Grid Utils package
