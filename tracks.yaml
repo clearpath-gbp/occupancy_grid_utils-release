@@ -39,9 +39,9 @@ tracks:
     name: occupancy_grid_utils
     patches: null
     release_inc: '1'
-    release_repo_url: null
+    release_repo_url: https://github.com/clearpath-gbp/occupancy_grid_utils-release.git
     release_tag: :{version}
     ros_distro: indigo
     vcs_type: git
     vcs_uri: https://github.com/clearpathrobotics/occupancy_grid_utils
-    version: 0.0.8
+    version: :{auto}
