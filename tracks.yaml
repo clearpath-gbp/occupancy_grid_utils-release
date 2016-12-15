@@ -35,7 +35,7 @@ tracks:
     - git-bloom-generate -y rosrpm --prefix release/:{ros_distro} :{ros_distro} -i
       :{release_inc}
     devel_branch: indigo-devel
-    last_version: 0.0.9
+    last_version: 0.0.10
     name: occupancy_grid_utils
     patches: null
     release_inc: '0'
