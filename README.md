@@ -1,3 +1,26 @@
+## occupancy_grid_utils (indigo) - 0.0.10-0
+
+The packages in the `occupancy_grid_utils` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --track indigo --ros-distro indigo occupancy_grid_utils` on `Thu, 15 Dec 2016 18:51:02 -0000`
+
+The `occupancy_grid_utils` package was released.
+
+Version of package(s) in repository `occupancy_grid_utils`:
+
+- upstream repository: https://github.com/clearpathrobotics/occupancy_grid_utils
+- release repository: https://github.com/clearpath-gbp/occupancy_grid_utils-release.git
+- rosdistro version: `0.0.9-0`
+- old version: `0.0.9-0`
+- new version: `0.0.10-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.38`
+
+
 ## occupancy_grid_utils (indigo) - 0.0.9-0
 
 The packages in the `occupancy_grid_utils` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --track indigo --ros-distro indigo occupancy_grid_utils --edit` on `Thu, 22 Sep 2016 16:37:21 -0000`
