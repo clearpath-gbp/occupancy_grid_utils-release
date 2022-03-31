@@ -1,3 +1,26 @@
+## occupancy_grid_utils (noetic) - 0.1.0-1
+
+The packages in the `occupancy_grid_utils` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic -t noetic occupancy_grid_utils --edit-track` on `Thu, 31 Mar 2022 13:12:24 -0000`
+
+The `occupancy_grid_utils` package was released.
+
+Version of package(s) in repository `occupancy_grid_utils`:
+
+- upstream repository: https://github.com/clearpathrobotics/occupancy_grid_utils
+- release repository: https://github.com/clearpath-gbp/occupancy_grid_utils-release.git
+- rosdistro version: `0.0.11-1`
+- old version: `0.0.11-1`
+- new version: `0.1.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.24`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## occupancy_grid_utils (noetic) - 0.0.11-1
 
 The packages in the `occupancy_grid_utils` repository were released into the `noetic` distro by running `/usr/local/bin/bloom-release --track noetic --ros-distro noetic occupancy_grid_utils` on `Wed, 30 Mar 2022 21:03:36 -0000`
