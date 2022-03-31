@@ -1,0 +1,12 @@
+Source: ros-noetic-occupancy-grid-utils
+Section: misc
+Priority: optional
+Maintainer: jservos <jservos@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), libeigen3-dev, ros-noetic-catkin, ros-noetic-cv-bridge, ros-noetic-geometry-msgs, ros-noetic-laser-geometry, ros-noetic-message-generation, ros-noetic-nav-msgs, ros-noetic-roscpp, ros-noetic-rospy, ros-noetic-sensor-msgs, ros-noetic-tf, ros-noetic-tf2-bullet
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-noetic-occupancy-grid-utils
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libeigen3-dev, ros-noetic-cv-bridge, ros-noetic-geometry-msgs, ros-noetic-laser-geometry, ros-noetic-message-runtime, ros-noetic-nav-msgs, ros-noetic-roscpp, ros-noetic-rospy, ros-noetic-sensor-msgs, ros-noetic-tf, ros-noetic-tf2-bullet
+Description: The catkinized Occupancy Grid Utils package
